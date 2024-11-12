@@ -3,12 +3,18 @@ h1 {
     font-size: 50px;
     text-align: center;
     color: red;
+    background-color: blue;
+    padding: 20px;
 }
 
 
 .recipes {
     text-align: center;
     font-size: 25px;
+}
+
+.recipes a {
+    margin: 10px;
 }
 
 .ingredients {
