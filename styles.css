@@ -1,0 +1,25 @@
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+
+.recipes {
+    text-align: center;
+    font-size: 25px;
+}
+
+.ingredients {
+    color: red;
+}
+
+.steps {
+    color: blue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
